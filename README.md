@@ -6,6 +6,7 @@
 * v2.0 - Battery_case.skp 추가   
 * v2.1 (미배포) - README.md 수정   
 * v3.0 - FP04-F60 추가, 일부 부품 위치 수정   
+* v3.1 - Github에서 zip 다운로드 후 바로 사용 가능하도록 구조 수정   
 
 ## Credit
 통합본 제작, Frame 잡선제거, Battery_case.skp 모델링 : 안제욱 (@gmstsghost)    
