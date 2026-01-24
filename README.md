@@ -1,4 +1,4 @@
-# 2025_Hubot_PARTs_v3.0
+# 2025_Hubot_PARTs
 2025년 로봇트리 IRO AI휴봇 출전 로봇 모델   
 
 ## Patch Note
