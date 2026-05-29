@@ -14,7 +14,7 @@ RPi5 모델링, CM530 모델링, AX-12A 잡선제거 : 이승민 (@sunsanlsm)
 
 ## Copyright
 **본 모델링의 임의 수정을 절대 금지합니다.**   
-AX-12A, 프레임의 저작권은 로보티즈에게 있습니다.   
+AX-12A, 프레임의 저작권은 로보티즈[@ROBOTIS-GIT](https://github.com/ROBOTIS-GIT)에게 있습니다.   
 
 ## 부품 목록
 FP04-F1, FP04-F2, FP04-F3, FP04-F4, FP04-F5, FP04-F6, FP04-F7,    
